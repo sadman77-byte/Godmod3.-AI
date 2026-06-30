@@ -5,7 +5,7 @@
 
 **GODMOD3 AI** is an advanced, restriction-free (Liberated Intelligence), and highly customizable AI assistant platform. It brings the world's best AI models (such as Claude 3.5, GPT-4o, Gemini Flash, etc.) under one roof using mandatory OpenRouter API integration.
 
-This project is specifically designed to be future-proof. It ensures that every new AI model released up until the year 2050 will be automatically updated and integrated, allowing users to perform advanced tasks without any interruptions.
+This project is specifically designed by using and modifying the codes from another github channel (forking) to be future-proof. It ensures that every new AI model released up until the year 2050 will be automatically updated and integrated, allowing users to perform advanced tasks without any interruptions.
 
 ### 🌐 Live Demo: 
 **[Click here to use GODMOD3 AI](https://godmod-3-advanced-assistant--sadmanishraq242.replit.app)**
