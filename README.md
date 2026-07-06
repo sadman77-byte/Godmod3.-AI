@@ -38,8 +38,8 @@ This app utilizes **Assistant Prefilling** to anchor model responses. When a spe
 // Example of the implemented identity anchor trick
 const assistantPrefill = "I am Claude, made by Anthropic."; 
 // Commit the model to the identity prompt without leaking the Base 1 router line
-## 💻 Installation Guide
 
+## 💻 Installation Guide
 1. No need to download, just go through the website
 https://groovy-god-mode-flow.base44.app
 <img width="1080" height="2400" alt="1000123949" src="https://github.com/user-attachments/assets/f28f2d4c-2471-4ef2-aca8-6fb435371035" />
