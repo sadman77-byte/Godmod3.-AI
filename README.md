@@ -41,9 +41,9 @@ const assistantPrefill = "I am Claude, made by Anthropic.";
 
 ## 💻 Installation Guide
 1. No need to download, just go through the website
-https://groovy-god-mode-flow.base44.app
-<img width="1080" height="2400" alt="1000123949" src="https://github.com/user-attachments/assets/f28f2d4c-2471-4ef2-aca8-6fb435371035" />
 
+https://groovy-god-mode-flow.base44.app
+<img width="1080" height="2400" alt="1000123949" src="https://github.com/user-attachments/assets/f28f2d4c-2471-4ef2-aca8-6fb435371website
 <img width="1080" height="2400" alt="1000123947" src="https://github.com/user-attachments/assets/6ab4198f-856e-4536-a6fd-850045ea845d" />
 <img width="1080" height="2400" alt="1000123945" src="https://github.com/user-attachments/assets/b5c202a0-9762-4e65-8378-5efb7eeb55f3" />
 <img width="1080" height="2400" alt="1000123939" src="https://github.com/user-attachments/assets/a8a46be6-0ed0-4c1f-ad84-7231503e3e75" />
