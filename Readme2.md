@@ -30,7 +30,7 @@ Unlike the original codebase which only simulated text responses through hardcod
 *   **Local Processing:** PDF generation modules, automated file read/write routines, and localized markdown parsing.
 *   **Current State:** Fully updated and stable with late-2024 multimodal open-source model configurations (Optimized for 2026 deployment environment).
 
-> ⚠️ *Note: "Race Mode" (Parallel multi-API execution streaming) is currently disabled/not included in this build to maintain Pollinations AI rate-limit compliance.*
+> ⚠️ *Note: "Race Mode" (Parallel multi-API execution streaming) is currently enabled
 
 ---
 
