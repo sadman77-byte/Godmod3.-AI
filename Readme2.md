@@ -42,11 +42,7 @@ This app utilizes **Assistant Prefilling** to anchor model responses. When a spe
 
 // Example of the implemented identity anchor trick
 const assistantPrefill = "I am Claude, made by Anthropic.";
-
 // Commit the model to the identity prompt without leaking the Base 1 router line
-<img width="1080" height="2400" alt="1000123949" src="https://github.com/user-attachments/assets/f28f2d4c-2471-4ef2-aca8-6fb435371website
-<img width="1080" height="2400" alt="1000123947" src="https://github.com/user-attachments/assets/6ab4198f-856e-4536-a6fd-850045ea845d" />
-<img width="1080" height="2400" alt="1000123945" src="https://github.com/user-attachments/assets/b5c202a0-9762-4e65-8378-5efb7eeb55f3" />
-<img width="1080" height="2400" alt="1000123939" src="https://github.com/user-attachments/assets/a8a46be6-0ed0-4c1f-ad84-7231503e3e75" />
-<img width="1080" height="2400" alt="1000123938" src="https://github.com/user-attachments/assets/4c629940-9687-402b-a439-93c6f1255b69" />
+
+
 
